@@ -27,9 +27,9 @@ In this article, we will discuss how to use `ChatGPT` to streamline your coding 
 ## Tips for Using ChatGPT to Streamline Your Coding Workflow
 Here are some tips for using `ChatGPT` to streamline your coding workflow:
 
-* _**Make requests specific**_. When asking `ChatGPT` to generate code snippets or provide debugging assistance, be as specific as possible. The more specific the question, the more accurate and helpful the response.
-* _**Use natural language**_. When describing a problem to `ChatGPT`, use natural language. This will help `ChatGPT` better understand what you are trying to do and generate more accurate responses.
-* _**Be patient.**_ `ChatGPT` is still under development, so it is not always perfect. Sometimes the responses may not be accurate or helpful. If this happens, rephrase the request or ask a different question.
+1. _**Make requests specific**_. When asking `ChatGPT` to generate code snippets or provide debugging assistance, be as specific as possible. The more specific the question, the more accurate and helpful the response.
+2. _**Use natural language**_. When describing a problem to `ChatGPT`, use natural language. This will help `ChatGPT` better understand what you are trying to do and generate more accurate responses.
+3. _**Be patient.**_ `ChatGPT` is still under development, so it is not always perfect. Sometimes the responses may not be accurate or helpful. If this happens, rephrase the request or ask a different question.
   
 ## Conclusion
-With a little practice, you will be able to use `ChatGPT` to streamline your coding workflow and improve your productivity.
+With a little practice, you will be able to use `ChatGPT` to streamline your coding workflow and improve your productivity. To Use `ChatGPT`, click on [this link](https://chat.openai.com/) to create an account and sign in.
